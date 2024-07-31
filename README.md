@@ -12,7 +12,7 @@ Play Rock-Paper-Scissors against an AI that predicts your moves using a Markov c
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/rock-paper-scissors-ai.git
+   git clone https://github.com/youssef-pplo/rock-paper-scissors-ai.git
    cd rock-paper-scissors-ai
    ```
 
